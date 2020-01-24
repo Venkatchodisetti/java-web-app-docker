@@ -105,12 +105,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>vamsy Releases Nexus Repository</name>
-	      <url>http://15.206.165.200:8081/repository/java-release/</url>
+	      <url>http://15.206.187.174:8081/repository/java-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Vamsy Snapshot Nexus Repository </name>
-	      <url>http://15.206.165.200:8081/repository/java-snap/</url>
+	      <url>http://15.206.187.174:8081/repository/java-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
